@@ -27,6 +27,6 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 
 ¡No dudes en contactarme para colaboraciones o charlar sobre tecnología!
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:wilson.paredes11@hotmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?logo=whatsapp)](https://wa.me/+593989026071)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/wilsonparedes11)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:wilsonparedes87@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?logo=whatsapp)](https://wa.me/+593983651761)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/wilson-paredes-541716244)
