@@ -22,10 +22,6 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=radical)
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonatanjacome07&theme=dark&hide_border=true"/>
-</p>
-
 ### Contacto
 
 ¡No dudes en contactarme para colaboraciones o charlar sobre tecnología!
