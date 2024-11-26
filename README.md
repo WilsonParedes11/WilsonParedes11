@@ -17,8 +17,6 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 ![React-Icons](https://img.shields.io/badge/React%20Icons-61DAFB?logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white)
 
-![GitHub Foundations Certification]([URL_DE_TU_INSIGNIA](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url))
-
 ### Trofeos y Estadística
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=radical)
