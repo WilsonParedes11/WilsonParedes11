@@ -8,9 +8,9 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 <p>
 <img alt="Languages" src="https://skillicons.dev/icons?i=php,py,ts,js,html,css"></a>
 </p>
-## 🛠️ Tecnologías y Herramientas que Uso
+### 🛠️ Tecnologías y Herramientas
 <p>
-<img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,npm,androidstudio,flutter,docker,github,git"></a>
+<img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,angular,wordpress,django,flask,azure,vite,npm,docker,github,git,composer,router"></a>
 </p>
 ## 🔧 Software, Sistemas Operativos
 <p>
