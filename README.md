@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 
 ### Lenguajes y Tecnologías
 <p>
-	<a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Languages" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,ts,go"></a>
+	<img alt="Languages" src="https://skillicons.dev/icons?i=php,py,ts,html,css,js"></a>
 </p>
 
 ### Trofeos y Estadística
