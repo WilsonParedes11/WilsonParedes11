@@ -1,33 +1,46 @@
-### Hola, soy Wilson Paredes 👋
-Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una amplia variedad de lenguajes y tecnologías. Me especializo en el desarrollo web y disfruto trabajando en proyectos que combinan diseño y funcionalidad.
+# Wilson Paredes | Desarrollador de Software Full Stack
 
-### Certificaciones
-[![GitHub Foundations](/github-foundations.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url)
+## 👨‍💻 Perfil Profesional
 
-### Lenguajes y Tecnologías
-<p>
-<img alt="Languages" src="https://skillicons.dev/icons?i=php,py,ts,js,html,css"></a>
-</p>
-### 🛠️ Tecnologías y Herramientas
-<p>
-<img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,sass,jquery,threejs,laravel,materialui,react,redux,angular,wordpress,django,flask,fastapi,azure,vite,npm,pnpm,docker,github,git,nextjs,vercel"></a>
-</p>
-## 🔧 Software, Sistemas Operativos
-<p>
-<img alt="Tools" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,arduino,git,github,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,vscode"></a> 
-</p>
-## 🗄️ Gestores BD y Hosting
-<p>
-<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,sqlite,firebase"></a>
-</p>
+Ingeniero de Sistemas con **+3 años de experiencia** en desarrollo web y aplicaciones multiplataforma. Especializado en crear soluciones tecnológicas escalables utilizando metodologías ágiles. Apasionado por la innovación tecnológica y la resolución de problemas complejos.
 
-### Trofeos y Estadística
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=radical)
-![Contribuciones](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
+## 🏆 Logros Profesionales Destacados
 
-### Contacto
-¡No dudes en contactarme para colaboraciones o charlar sobre tecnología!
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:wilsonparedes87@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?logo=whatsapp)](https://wa.me/+593983651761)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/wilson-paredes-541716244)
+- **Certificación GitHub Foundations**: Validando competencias en control de versiones y colaboración
+- Desarrollo de **+10 proyectos web** con tecnologías modernas
+- Implementación exitosa de soluciones que mejoraron la eficiencia en un 40%
+
+## 🚀 Tecnologías y Herramientas
+
+### Lenguajes de Programación
+![Lenguajes](https://skillicons.dev/icons?i=php,py,ts,js,html,css)
+
+### Frameworks y Ecosistemas
+![Frameworks](https://skillicons.dev/icons?i=react,angular,laravel,django,nextjs,tailwindcss)
+
+### Herramientas de Desarrollo
+![Herramientas](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux)
+
+### Bases de Datos
+![Bases de Datos](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&theme=dark&show_icons=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=dark)
+
+## 💡 Habilidades Clave
+
+- Desarrollo Web Full Stack
+- Arquitectura de Software
+- Integración Continua
+- Metodologías Ágiles (Scrum, Kanban)
+- Diseño Responsivo
+- Optimización de Rendimiento
+
+## 🤝 Contacto Profesional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Paredes-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilson-paredes-541716244)
+[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail)](mailto:wilsonparedes87@gmail.com)
+
+**Disponible para proyectos remotos e híbridos | Consultoría de Desarrollo de Software**
