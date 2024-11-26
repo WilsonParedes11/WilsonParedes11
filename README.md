@@ -10,15 +10,15 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 </p>
 ### 🛠️ Tecnologías y Herramientas
 <p>
-<img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,angular,wordpress,django,flask,azure,vite,npm,docker,github,git"></a>
+<img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,sass,jquery,threejs,laravel,materialui,react,redux,angular,wordpress,django,flask,fastapi,azure,vite,npm,pnpm,docker,github,git,nextjs,vercel"></a>
 </p>
 ## 🔧 Software, Sistemas Operativos
 <p>
-<img alt="Tools" src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,kali,parrot,arduino,git,github,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse"></a> 
+<img alt="Tools" src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,kali,arduino,git,github,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode"></a> 
 </p>
 ## 🗄️ Gestores BD y Hosting
 <p>
-<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen,dbeaver "></a>
+<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,sqlite,firebase"></a>
 </p>
 
 ### Trofeos y Estadística
