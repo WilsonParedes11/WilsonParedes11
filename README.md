@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 </p>
 ## 🔧 Software, Sistemas Operativos
 <p>
-<img alt="Tools" src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,kali,arduino,git,github,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode"></a> 
+<img alt="Tools" src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,kali,arduino,git,github,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,vscode"></a> 
 </p>
 ## 🗄️ Gestores BD y Hosting
 <p>
