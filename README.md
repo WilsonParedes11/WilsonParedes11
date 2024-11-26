@@ -14,11 +14,11 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 </p>
 ## 🔧 Software, Sistemas Operativos
 <p>
-<img alt="Tools" src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,kali,arduino,git,github,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,vscode"></a> 
+<img alt="Tools" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,arduino,git,github,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,vscode"></a> 
 </p>
 ## 🗄️ Gestores BD y Hosting
 <p>
-<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,sqlite,firebase"></a>
+<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,sqlite,firebase"></a>
 </p>
 
 ### Trofeos y Estadística
