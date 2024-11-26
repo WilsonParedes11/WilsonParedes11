@@ -6,7 +6,19 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 
 ### Lenguajes y Tecnologías
 <p>
-	<img alt="Languages" src="https://skillicons.dev/icons?i=php,py,ts,js,html,css"></a>
+<img alt="Languages" src="https://skillicons.dev/icons?i=php,py,ts,js,html,css"></a>
+</p>
+## 🛠️ Tecnologías y Herramientas que Uso
+<p>
+<img alt="Frameworks" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,npm,androidstudio,flutter,docker,github,git"></a>
+</p>
+## 🔧 Software, Sistemas Operativos
+<p>
+<img alt="Tools" src="https://skillicons.dev/icons?i=linux,windows,ubuntu,debian,kali,androidstudio,gradle,arduino,git,github,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse"></a> 
+</p>
+## 🗄️ Gestores BD y Hosting
+<p>
+<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen"></a>
 </p>
 
 ### Trofeos y Estadística
