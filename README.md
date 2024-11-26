@@ -35,7 +35,7 @@ Ingeniero de Sistemas con **+3 años de experiencia** en desarrollo web y aplica
 - Desarrollo Web Full Stack
 - Arquitectura de Software
 - Integración Continua
-- Metodologías Ágiles (Scrum, Kanban)
+- Metodologías Ágiles (Lean,Scrum, Kanban)
 - Diseño Responsivo
 - Optimización de Rendimiento
 
