@@ -2,7 +2,7 @@
 Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una amplia variedad de lenguajes y tecnologías. Me especializo en el desarrollo web y disfruto trabajando en proyectos que combinan diseño y funcionalidad.
 
 ### Certificaciones
-[![GitHub Foundations](https://images.credly.com/size/110x110/images/c4444a76-7e3a-43ab-9ff1-4b247462c99b/image.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url)
+[![GitHub Foundations](/github-foundations.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url)
 
 ### Lenguajes y Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
