@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 
 ### Lenguajes y Tecnologías
 <p>
-	<img alt="Languages" src="https://skillicons.dev/icons?i=php,py,ts,html,css,js"></a>
+	<img alt="Languages" src="https://skillicons.dev/icons?i=php,py,ts,js,html,css"></a>
 </p>
 
 ### Trofeos y Estadística
