@@ -1,6 +1,8 @@
 ### Hola, soy Wilson Paredes 👋
-
 Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una amplia variedad de lenguajes y tecnologías. Me especializo en el desarrollo web y disfruto trabajando en proyectos que combinan diseño y funcionalidad.
+
+### Certificaciones
+[![GitHub Foundations](https://images.credly.com/size/110x110/images/c4444a76-7e3a-43ab-9ff1-4b247462c99b/image.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url)
 
 ### Lenguajes y Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -23,9 +25,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
 
 ### Contacto
-
 ¡No dudes en contactarme para colaboraciones o charlar sobre tecnología!
-
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue)](mailto:wilsonparedes87@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?logo=whatsapp)](https://wa.me/+593983651761)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/wilson-paredes-541716244)
