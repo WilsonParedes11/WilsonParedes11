@@ -18,7 +18,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 </p>
 ## 🗄️ Gestores BD y Hosting
 <p>
-<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen,DBeaver "></a>
+<img alt="SGBD" src ="https://skillicons.dev/icons?i=postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen,dbeaver "></a>
 </p>
 
 ### Trofeos y Estadística
