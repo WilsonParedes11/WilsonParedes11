@@ -17,9 +17,9 @@ Soy un desarrollador apasionado por crear soluciones innovadoras utilizando una 
 ![React-Icons](https://img.shields.io/badge/React%20Icons-61DAFB?logo=react&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?logo=mui&logoColor=white)
 
-### Trofeos y Estadística
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="63c25712-a2dd-4e41-89e9-1876b48277f2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![GitHub Foundations Certification]([URL_DE_TU_INSIGNIA](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url))
 
+### Trofeos y Estadística
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=radical)
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&count_private=true&show_icons=true&theme=radical&hide=contribs,prs)
