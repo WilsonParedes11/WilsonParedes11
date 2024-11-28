@@ -27,7 +27,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=merko)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=dark_green)
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&count_private=true&show_icons=true&theme=merko&hide=contribs,prs)
 
 ## 💡 Habilidades Clave
