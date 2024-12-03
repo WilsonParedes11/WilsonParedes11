@@ -12,7 +12,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 
 ## 🚀 Tecnologías y Herramientas
 
-### Lenguajes de Programación
+### Lenguajes de Programación 
 ![Lenguajes](https://skillicons.dev/icons?i=php,py,ts,js,html,css)
 
 ### Frameworks y Ecosistemas
