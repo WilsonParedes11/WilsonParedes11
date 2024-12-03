@@ -30,7 +30,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&theme=merko)
 ![Contribuciones](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&count_private=true&show_icons=true&theme=merko&hide=contribs,prs)
 
-## 💡 Habilidades Clave
+## 💡 Habilidades Clave 
 
 - Desarrollo Web Full Stack
 - Arquitectura de Software
