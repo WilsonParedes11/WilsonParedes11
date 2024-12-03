@@ -37,7 +37,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 - Integración Continua
 - Metodologías Ágiles (Lean,Scrum, Kanban)
 - Diseño Responsivo
-- Optimización de Rendimiento
+- Optimización de Rendimiento 
 
 ## 🤝 Contacto Profesional
 
