@@ -34,7 +34,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 
 - Desarrollo Web Full Stack
 - Arquitectura de Software
-- Integración Continua
+- Integración Continua 
 - Metodologías Ágiles (Lean,Scrum, Kanban)
 - Diseño Responsivo
 - Optimización de Rendimiento 
