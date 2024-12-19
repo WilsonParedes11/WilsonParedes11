@@ -21,7 +21,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 ### Herramientas de Desarrollo
 ![Herramientas](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux)
 
-### Bases de Datos
+### Bases de Datos 
 ![Bases de Datos](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)
 
 ## 📊 Estadísticas de GitHub
