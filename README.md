@@ -10,7 +10,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 - Desarrollo de **+10 proyectos web** con tecnologías modernas
 - Implementación exitosa de soluciones que mejoraron la eficiencia en un 40%
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Tecnologías y Herramientas 
 
 ### Lenguajes de Programación  
 ![Lenguajes](https://skillicons.dev/icons?i=php,py,ts,js,html,css)
