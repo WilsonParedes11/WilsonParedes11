@@ -9,7 +9,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 - **Certificación GitHub Foundations**: Validando competencias en control de versiones y colaboración
 - Desarrollo de **+10 proyectos web** con tecnologías modernas
 - Implementación exitosa de soluciones que mejoraron la eficiencia en un 40%
-
+ 
 ## 🚀 Tecnologías y Herramientas 
 
 ### Lenguajes de Programación  
