@@ -1,6 +1,6 @@
 # Wilson Paredes | Desarrollador Web
 
-## 👨‍💻 Perfil Profesional 
+## 👨‍💻 Perfil Profesional  
   
 Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplicaciones multiplataforma. Especializado en crear soluciones tecnológicas escalables utilizando metodologías ágiles. Apasionado por la innovación tecnológica y la resolución de problemas complejos. 
 
