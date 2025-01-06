@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Perfil Profesional   
    
-Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplicaciones multiplataforma. Especializado en crear soluciones tecnológicas escalables utilizando metodologías ágiles. Apasionado por la innovación tecnológica y la resolución de problemas complejos. 
+Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplicaciones multiplataforma. Especializado en crear soluciones tecnológicas escalables utilizando metodologías ágiles. Apasionado por la innovación tecnológica y la resolución de problemas complejos.  
  
 ## 🏆 Logros Profesionales Destacados
 [![GitHub Foundations](/github-foundations.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url)
