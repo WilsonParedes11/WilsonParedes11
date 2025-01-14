@@ -16,7 +16,7 @@ Ingeniero de Software con **+3 años de experiencia** en desarrollo web y aplica
 ![Lenguajes](https://skillicons.dev/icons?i=php,py,ts,js,html,css)
  
 ### Frameworks y Ecosistemas 
-![Frameworks](https://skillicons.dev/icons?i=react,angular,laravel,django,nextjs,tailwindcss)
+![Frameworks](https://skillicons.dev/icons?i=react,nestjs,angular,laravel,django,nextjs,tailwindcss)
 
 ### Herramientas de Desarrollo 
 ![Herramientas](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux)
