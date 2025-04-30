@@ -48,7 +48,7 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=radical&hide_border=true" />
 </p>
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonParedes11&theme=react-dark" />
 </p>
