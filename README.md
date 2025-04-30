@@ -55,20 +55,6 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 
 ---
 
-## 💼 Proyectos Destacados
-
-### 🛒 E-commerce Full Stack
-![E-commerce](https://your-image-url.com/demo.gif) <!-- Reemplazar con URL real -->
-- **Stack**: React, Laravel, MySQL
-- **Funcionalidades**: pasarela de pagos, gestión de usuarios, panel administrativo
-- 🔗 [Ver Repositorio](https://github.com/WilsonParedes11/ecommerce)
-
-### 📊 Sistema de Gestión Clínica
-- **Stack**: Laravel + Vue + MySQL
-- **Características**: manejo de historias clínicas, reportes automáticos, control de citas
-
----
-
 ## 🧠 Habilidades Clave
 
 - Desarrollo Web Full Stack
