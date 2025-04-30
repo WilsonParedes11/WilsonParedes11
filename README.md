@@ -1,70 +1,96 @@
-# 👨‍💻 Wilson Paredes | Senior Web Developer
+<h1 align="center">👨‍💻 Wilson Paredes | Desarrollador Web Full Stack</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:00BCD4&height=200&section=header&text=Wilson%20Paredes&fontSize=40&fontAlign=center&fontColor=ffffff)
-
-## 🚀 Perfil Profesional
-
-Ingeniero en Software con **+3 años de experiencia** en desarrollo de aplicaciones web y móviles. Especializado en soluciones escalables usando **React, Laravel y Next.js**, aplicando buenas prácticas, pruebas automatizadas y principios SOLID. Enfoque en resultados, rendimiento y calidad de código.
-
----
-
-## 🏆 Logros Profesionales Destacados
-
-- [![GitHub Foundations](/github-foundations.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url) **GitHub Foundations Certified**
-- Desarrollo de **+10 proyectos web** con tecnologías modernas
-- Implementación de soluciones que mejoraron la eficiencia interna hasta en un **40%**
-- Automatización de flujos de trabajo con integración continua (CI/CD)
+<p align="center">
+  <b>+3 años de experiencia</b> creando soluciones escalables con tecnologías modernas.<br/>
+  Apasionado por la innovación, optimización y arquitectura de software.
+</p>
 
 ---
 
-## 💻 Tecnologías & Herramientas
+## 🧑‍💼 Sobre Mí
 
-### Lenguajes de Programación  
-![Lenguajes](https://skillicons.dev/icons?i=js,ts,py,php,html,css)
+Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones multiplataforma. Especializado en metodologías ágiles (Scrum, Kanban), optimización de rendimiento y diseño responsivo. Comprometido con la mejora continua y la entrega de soluciones efectivas.
 
-### Frameworks y Ecosistemas  
-![Frameworks](https://skillicons.dev/icons?i=react,nextjs,angular,nestjs,laravel,django,tailwindcss)
+---
 
-### Bases de Datos  
+## 🏆 Logros y Certificaciones
+
+- 🥇 Desarrollo de **+10 proyectos web** con impacto real en empresas y startups.
+- 📈 Implementación de soluciones que aumentaron eficiencia operativa hasta un **40%**.
+- 📜 [![GitHub Foundations](/github-foundations.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url) **GitHub Foundations Certified**
+- 🧠 Actualmente aprendiendo: *Arquitectura Hexagonal* y *Microservicios con NestJS y RabbitMQ*.
+
+---
+
+## 🧰 Tecnologías y Herramientas
+
+### 🖥️ Lenguajes
+![Lenguajes](https://skillicons.dev/icons?i=php,py,ts,js,html,css)
+
+### 🧱 Frameworks & Librerías
+![Frameworks](https://skillicons.dev/icons?i=react,nestjs,angular,laravel,django,nextjs,tailwindcss)
+
+### ⚙️ Herramientas de Desarrollo
+![Herramientas](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux)
+
+### 🗃️ Bases de Datos
 ![Bases de Datos](https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase)
 
-### DevOps y Herramientas  
-![DevOps](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman)
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonParedes11&theme=react-dark" />
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 💼 Proyectos Destacados
 
-### 🔥 Racha actual y contribuciones
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WilsonParedes11&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+### 🛒 E-commerce Full Stack
+![E-commerce](https://your-image-url.com/demo.gif) <!-- Reemplazar con URL real -->
+- **Stack**: React, Laravel, MySQL
+- **Funcionalidades**: pasarela de pagos, gestión de usuarios, panel administrativo
+- 🔗 [Ver Repositorio](https://github.com/WilsonParedes11/ecommerce)
 
-### 📈 Estadísticas generales
-[![WilsonParedes11's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 Trofeos de contribución
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)
-
-### 🧠 Lenguajes más usados
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Sistema de Gestión Clínica
+- **Stack**: Laravel + Vue + MySQL
+- **Características**: manejo de historias clínicas, reportes automáticos, control de citas
 
 ---
 
-## 💡 Habilidades Clave
+## 🧠 Habilidades Clave
 
-- Desarrollo Web Full Stack con enfoque en rendimiento
-- Arquitectura limpia y mantenimiento de código escalable
-- CI/CD con GitHub Actions y Docker
-- Testing: Unitarios, integración, e2e
-- Liderazgo técnico y mentoría
-- Metodologías ágiles (Scrum, Kanban, Lean)
+- Desarrollo Web Full Stack
+- Arquitectura de Software Moderna
+- Testing y Deploy Automatizado (CI/CD)
+- Integración de APIs REST y GraphQL
+- Diseño UI/UX y Mobile First
+- Liderazgo Técnico y Mentoría
 
 ---
 
 ## 📫 Contacto Profesional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wilson%20Paredes-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wilson-paredes-541716244)
-[![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail)](mailto:wilsonparedes87@gmail.com)
+<p align="center">
+  <a href="mailto:wilsonparedes87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wilson-paredes-541716244">
+    <img src="https://img.shields.io/badge/LinkedIn-Wilson%20Paredes-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
----
-
-🛰️ **Disponible para proyectos remotos e híbridos | Consultoría en desarrollo de software | Mentorías técnicas**
+<p align="center">
+  📍 Disponible para proyectos remotos o híbridos | Consultoría | Freelance
+</p>
