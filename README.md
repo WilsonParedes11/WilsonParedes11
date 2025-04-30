@@ -39,6 +39,9 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=radical" height="160"/>
@@ -51,10 +54,6 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonParedes11&theme=react-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true" />
 </p>
 
 ---
@@ -83,15 +82,4 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 
 <p align="center">
   📍 Disponible para proyectos remotos o híbridos | Consultoría | Freelance
-</p>
-
----
-
-## ☕ Apóyame con un Café
-
-<p align="center">
-  <em>Si crees que merezco un poco de pick-me-up, ¿por qué no tratarme con una taza de café o té?</em><br><br>
-  <a href="https://www.buymeacoffee.com/tu_usuario" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=tu_usuario&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
 </p>
