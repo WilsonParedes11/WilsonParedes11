@@ -44,12 +44,28 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
   <img src="https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&layout=compact&theme=radical" height="160"/>
 </p>
- ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true)
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=radical&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WilsonParedes11&theme=react-dark" />
 </p>
+
+---
+
+## 💼 Proyectos Destacados
+
+### 🛒 E-commerce Full Stack
+![E-commerce](https://your-image-url.com/demo.gif) <!-- Reemplazar con URL real -->
+- **Stack**: React, Laravel, MySQL
+- **Funcionalidades**: pasarela de pagos, gestión de usuarios, panel administrativo
+- 🔗 [Ver Repositorio](https://github.com/WilsonParedes11/ecommerce)
+
+### 📊 Sistema de Gestión Clínica
+- **Stack**: Laravel + Vue + MySQL
+- **Características**: manejo de historias clínicas, reportes automáticos, control de citas
 
 ---
 
