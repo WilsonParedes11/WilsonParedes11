@@ -3,7 +3,7 @@
 <p align="center">
   <b>+3 años de experiencia</b> creando soluciones escalables con tecnologías modernas.<br/>
   Apasionado por la innovación, optimización y arquitectura de software.
-</p>
+</p> 
 
 ---
 
