@@ -13,7 +13,7 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 
 ---
 
-## 🏆 Logros y Certificaciones
+## 🏆 Logros y Certificaciones 
 
 - 🥇 Desarrollo de **+10 proyectos web** con impacto real en empresas y startups.
 - 📈 Implementación de soluciones que aumentaron eficiencia operativa hasta un **40%**.
