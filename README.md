@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Wilson Paredes | Desarrollador Web Full Stack</h1>
 
-<p align="center">
+<p align="center"> 
   <b>+3 años de experiencia</b> creando soluciones escalables con tecnologías modernas.<br/>
   Apasionado por la innovación, optimización y arquitectura de software.
 </p>
