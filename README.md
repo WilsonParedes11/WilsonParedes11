@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💼 Sobre Mí 
+## 🧑‍💼 Sobre Mí  
 
 Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones multiplataforma. Especializado en metodologías ágiles (Scrum, Kanban), optimización de rendimiento y diseño responsivo. Comprometido con la mejora continua y la entrega de soluciones efectivas.
 
