@@ -49,7 +49,6 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=radical&hide_border=true" />
 </p>
----
 
 ## 🧠 Habilidades Clave
 
