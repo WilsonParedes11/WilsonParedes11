@@ -19,9 +19,7 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 - 📈 Implementación de soluciones que aumentaron eficiencia operativa hasta un **40%**.
 - 📜 [![GitHub Foundations](/github-foundations.png)](https://www.credly.com/badges/63c25712-a2dd-4e41-89e9-1876b48277f2/public_url) **GitHub Foundations Certified**
 - 🧠 Actualmente aprendiendo: *Arquitectura Hexagonal* y *Microservicios con NestJS y RabbitMQ*.
-
----
-
+  
 ## 🧰 Tecnologías y Herramientas
 
 ### 🖥️ Lenguajes
