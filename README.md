@@ -26,7 +26,7 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 ![Lenguajes](https://skillicons.dev/icons?i=php,py,ts,js)
 
 ### 🧱 Frameworks & Librerías
-![Frameworks](https://skillicons.dev/icons?i=react,nestjs,angular,laravel,filamentphp,django,nextjs,tailwindcss)
+![Frameworks](https://skillicons.dev/icons?i=react,nestjs,angular,laravel,filament,django,nextjs,tailwindcss)
 
 ### ⚙️ Herramientas de Desarrollo
 ![Herramientas](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux)
