@@ -47,6 +47,11 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
   <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&v=2" />
+</p>
+
 ## 🧠 Habilidades Clave
 
 - Desarrollo Web Full Stack
