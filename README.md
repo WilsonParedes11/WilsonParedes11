@@ -36,18 +36,20 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=darkhub&no-frame=true&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&layout=compact&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ## 🧠 Habilidades Clave
