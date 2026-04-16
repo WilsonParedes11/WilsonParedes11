@@ -37,19 +37,13 @@ Ingeniero de Software con sólida experiencia en desarrollo web y aplicaciones m
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WilsonParedes11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilsonParedes11&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=WilsonParedes11&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WilsonParedes11&theme=algolia&no-frame=true&no-bg=true"
-       onerror="this.src='https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=WilsonParedes11&theme=algolia&no-frame=true&no-bg=true';" />
 </p>
 
 ## 🧠 Habilidades Clave
